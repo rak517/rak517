@@ -39,9 +39,4 @@
   <div align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=rak517" alt="rak517's GitHub stats" style="margin-bottom: 10px;" width=360>
   </div>
-
-  <div align="center"> 
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rak517&locale=ko&card_width=360&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-  </div>
-
 </div>
